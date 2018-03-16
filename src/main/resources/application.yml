@@ -1,0 +1,12 @@
+spring:
+  data:
+     elasticsearch:
+        cluster-name:
+        cluster-nodes: localhost:9300
+
+
+
+estemplate:
+  cluster-name: elasticsearch
+  host: localhost
+  port: 9300
